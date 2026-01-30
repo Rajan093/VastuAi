@@ -1,0 +1,26 @@
+# LLM & Embeddings
+google-genai
+
+# Vector Database
+pinecone
+
+# Astrology
+pyswisseph
+
+# PDF Processing
+PyMuPDF
+
+# Environment Variables
+python-dotenv
+
+# Utilities
+regex
+
+# Geocoding
+geopy
+certifi
+
+# Web Frontend
+streamlit
+
+
