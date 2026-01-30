@@ -4,9 +4,9 @@ AI-powered Vedic astrology consultation application with conversational interfac
 
 ## 🎬 Demo
 
-[📹 Watch Demo Video](assets/demo.mov) (1:41)
+[![VastuAi Demo](https://img.youtube.com/vi/aKqeLdqtNmQ/maxresdefault.jpg)](https://youtu.be/aKqeLdqtNmQ)
 
-> **Note**: The video file is 35MB. Download it locally to view, or check the [releases](https://github.com/Rajan093/VastuAi/releases) for a compressed version.
+*Click to watch the demo on YouTube*
 
 ## Technologies Used
 
